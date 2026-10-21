@@ -1,27 +1,30 @@
-##Python Calculator
+Python Calculator
 
-A simple command-line calculator built using Python. This program performs basic arithmetic operations, including addition, subtraction, multiplication, and division. It also handles invalid number inputs and prevents division by zero.
+Python Calculator is a simple command-line application developed using Python. It performs basic arithmetic operations such as addition, subtraction, multiplication, and division. The program also handles invalid inputs and prevents division by zero.
 
-##Features
-Addition (+)
-Subtraction (-)
-Multiplication (*)
-Division (/)
-Error handling for invalid inputs
-Division-by-zero protection
-Simple and user-friendly interface
+Features
+➕ Addition
+➖ Subtraction
+✖️ Multiplication
+➗ Division
+⚠️ Handles invalid number inputs
+🛡️ Prevents division by zero
+💻 Easy-to-use command-line interface
 
-##Technologies Used
-Python 3
-Built-in Python functions and conditional statements
-Exception handling (try-except)
+Technologies Used
+Programming Language: Python 3
+Concepts: Functions, user input, conditional statements, arithmetic operators, and exception handling
 
-##How to Run
+Project Structure
+python-calculator/
+├── calculator.py
+└── README.md
+
+How to Run
 Install Python 3 on your computer.
-Download or clone this repository.
-Open a terminal in the project folder.
-Run 
-
+Clone or download this repository.
+Open a terminal in the project directory.
+Run the following command:
 PythonCalculator.py
 
 Example Output
@@ -32,5 +35,18 @@ Enter operator: +
 Enter second number: 5
 Result: 15.0
 
-##Learning Objectives
-This project demonstrates the use of Python functions, user input, arithmetic operators, conditional statements, and exception handling.
+Error Handling
+Displays an error message when invalid numbers are entered.
+Prevents division by zero.
+Displays a message when an unsupported operator is entered.
+
+Learning Objectives
+
+This project helps beginners understand:
+
+Python function definitions and function calls
+Taking user input with input()
+Converting input to numbers using float()
+Using if, elif, and else statements
+Handling errors with try-except
+Performing arithmetic operations
