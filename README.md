@@ -3,13 +3,13 @@
 Python Calculator is a simple command-line application developed using Python. It performs basic arithmetic operations such as addition, subtraction, multiplication, and division. The program also handles invalid inputs and prevents division by zero.
 
 ##Features
-➕ Addition
-➖ Subtraction
-✖️ Multiplication
-➗ Division
-⚠️ Handles invalid number inputs
-🛡️ Prevents division by zero
-💻 Easy-to-use command-line interface
+Addition
+Subtraction
+Multiplication
+Division
+Handles invalid number inputs
+Prevents division by zero
+Easy-to-use command-line interface
 
 ##Technologies Used
 Programming Language: Python 3
